@@ -12,48 +12,27 @@ redirect_from:
 Education
 ======
 * Ph.D in Statistics, Bocconi University, Milan, Italy, Sep. 2025 - Current
-* M.Sc in Mathematics, Università di Trento, Trento, Italy, 2022 - 2024\\
-  Thesis title: “Statistical Properties of the Spatial Sign Autocorrelation Coefficient for Stationary α-Mixing Processes”\\
+* M.Sc in Mathematics, Università di Trento, Trento, Italy, 2022 - 2024
 * B.Sc in Mathematics, Università degli Studi di Firenze, Florence, Italy, 2018 - 2021
 * High School Diploma, Liceo Ginnasio Dante, Florence, Italy, 2013 - 2018
 
 Research experience
 ======
-* Feb. 2025 - Jul. 2025: Research Fellowship
-  * Università di Trento, Trento, Italy
-  * Contributed to the PRIN 2022 project "Measurement Errors and Missing Information      in Meta-Regression". Developed new methodologies based on Density Power Divergence (DPD) for meta-regression problems.
-  * Supervisor: prof. Claudio Agostinelli
+* Feb. 2025 - Jul. 2025: Research Fellowship\
+  Università di Trento, Trento, Italy\
+  Contributed to the PRIN 2022 project "Measurement Errors and Missing Information      in Meta-Regression". Developed new methodologies based on Density Power Divergence (DPD) for meta-regression problems.\
+  Supervisor: prof. Claudio Agostinelli
 
-* Apr. 2024 - Jul. 2024: Master Thesis Abroad
-  * Leiden University, Leiden, The Netherlands
+* Apr. 2024 - Jul. 2024: Master Thesis Abroad\
+  Leiden University, Leiden, The Netherlands
+
+Awards and Scholarships
+======
+Honourable Mention – SIS Best Master Thesis in Methodological Statistics, in memory of professor Oliviero Lessi\ 
+Thesis title: “Statistical Properties of the Spatial Sign Autocorrelation Coefficient for Stationary α-Mixing Processes” \
+Supervisor: Prof. Claudio Agostinelli.
   
 Skills
 ======
 * Languages: Italian (Native), English (C1 CEFR)
 * Programming Languages: Python, C++, MATLAB, R
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
-
-#Publications
-#======
-#  <ul>{% for post in site.publications reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-#Service and leadership
-======
-* Currently signed in to 43 different slack teams
