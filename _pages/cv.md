@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Statistics, Bocconi University, Milan, Italy, Sep. 2025 - Current
 * M.Sc in Mathematics, Università di Trento, Trento, Italy, 2022 - 2024
-* B.Sc in Mathematics, Università degli Studi di Firenze, Florence, Italy, 2018 - 2021
+* B.Sc in Mathematics, Università di Firenze, Florence, Italy, 2018 - 2021
 * High School Diploma, Liceo Ginnasio Dante, Florence, Italy, 2013 - 2018
 
 Research experience
