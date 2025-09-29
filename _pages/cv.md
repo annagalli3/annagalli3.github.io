@@ -28,8 +28,8 @@ Research experience
 
 Awards and Scholarships
 ======
-* Honourable Mention – SIS Best Master Thesis in Methodological Statistics, in memory of professor Oliviero Lessi\ 
-Thesis title: “Statistical Properties of the Spatial Sign Autocorrelation Coefficient for Stationary α-Mixing Processes” \
+* Honourable Mention – SIS Best Master Thesis in Methodological Statistics, in memory of professor Oliviero Lessi\
+  Thesis title: “Statistical Properties of the Spatial Sign Autocorrelation Coefficient for Stationary α-Mixing Processes” \
 Supervisor: Prof. Claudio Agostinelli.
   
 Skills
