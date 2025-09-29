@@ -20,7 +20,6 @@ Research experience
 ======
 * Feb. 2025 - Jul. 2025: Research Fellowship\
   Università di Trento, Trento, Italy\
-  Contributed to the PRIN 2022 project "Measurement Errors and Missing Information      in Meta-Regression". Developed new methodologies based on Density Power Divergence (DPD) for meta-regression problems.\
   Supervisor: prof. Claudio Agostinelli
 
 * Apr. 2024 - Jul. 2024: Master Thesis Abroad\
