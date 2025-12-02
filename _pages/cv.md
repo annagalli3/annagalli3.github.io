@@ -24,11 +24,11 @@ Research experience
 * Apr. 2024 - Jul. 2024: Master Thesis Abroad\
   Leiden University, Leiden, The Netherlands
 
-Awards and Scholarships
-======
-* Honourable Mention – SIS Best Master Thesis in Methodological Statistics, in memory of professor Oliviero Lessi\
-  Thesis title: “Statistical Properties of the Spatial Sign Autocorrelation Coefficient for Stationary α-Mixing Processes” \
-Supervisor: Prof. Claudio Agostinelli.
+#Awards and Scholarships
+#======
+#* Honourable Mention – SIS Best Master Thesis in Methodological Statistics, in memory of professor Oliviero Lessi\
+#Thesis title: “Statistical Properties of the Spatial Sign Autocorrelation Coefficient for Stationary α-Mixing Processes” \
+#Supervisor: Prof. Claudio Agostinelli.
   
 Skills
 ======
